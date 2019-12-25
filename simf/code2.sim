@@ -1,0 +1,14 @@
+variable {
+  STG name
+  INT age
+  INT num1
+}
+
+code {
+  ASK name
+  ASK age
+  PRT name
+  PRT age
+  PUT ADD 1 MUL 2 2 IN num1
+}
+
